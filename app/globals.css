@@ -57,20 +57,3 @@
     @apply bg-background text-foreground;
   }
 }
-
-/* Custom styles for the accordion */
-[data-state="open"] .accordion-plus {
-  display: none;
-}
-
-[data-state="closed"] .accordion-x {
-  display: none;
-}
-
-[data-state="open"] .accordion-x {
-  display: block;
-}
-
-[data-state="closed"] .accordion-plus {
-  display: block;
-}
