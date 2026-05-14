@@ -8,7 +8,7 @@
 
 ## Screenshot
 
-![accordion](https://github.com/youssefbarj/accordion/raw/main/screenshot.png)
+![accordion](https://raw.githubusercontent.com/youssefbarj/accordion/main/screenshot.png)
 
 ## What this slide does
 
